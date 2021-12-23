@@ -1,4 +1,4 @@
-def factorial(n):
+def fac(n):
     if int(n)!=n or n<0:
         return 'number should be a natural.'
     elif n == 0:
